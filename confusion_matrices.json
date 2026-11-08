@@ -1,0 +1,52 @@
+{
+  "Logistic Regression": [
+    [
+      71,
+      1
+    ],
+    [
+      3,
+      39
+    ]
+  ],
+  "Decision Tree": [
+    [
+      68,
+      4
+    ],
+    [
+      4,
+      38
+    ]
+  ],
+  "KNN": [
+    [
+      71,
+      1
+    ],
+    [
+      4,
+      38
+    ]
+  ],
+  "Gaussian Naive Bayes": [
+    [
+      72,
+      0
+    ],
+    [
+      7,
+      35
+    ]
+  ],
+  "Support Vector Machine": [
+    [
+      72,
+      0
+    ],
+    [
+      3,
+      39
+    ]
+  ]
+}

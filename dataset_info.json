@@ -1,0 +1,13 @@
+{
+  "dataset": "Breast Cancer Wisconsin (Diagnostic)",
+  "repository": "UCI Machine Learning Repository",
+  "url": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+  "instances": 569,
+  "input_features": 30,
+  "target": {
+    "0": "Benign",
+    "1": "Malignant"
+  },
+  "positive_class_for_metrics": "Malignant (1)",
+  "split": "80% train / 20% test, stratified, random_state=42"
+}
